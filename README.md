@@ -1,6 +1,8 @@
 stanford_pipeline
 =================
 
+This should have been a fork from [Open Event Data](https://github.com/openeventdata/stanford_pipeline). I thought I had forked it to my machine and made changes, but it turns out I never did. Since I'm not sure how to fix that (yet), I am just keeping it here. 
+
 Program to run scraped news stories through Stanford's CoreNLP program.
 
 The program pulls stories added to the database within the past day and that
